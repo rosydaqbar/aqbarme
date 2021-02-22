@@ -1,1 +1,2 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Hi Aqbar Here!
+I'm UI/UX Designer live in Indonesia, currently work as full-time UX Designer in Antikode, a company that builds an amazing product for our clients...
